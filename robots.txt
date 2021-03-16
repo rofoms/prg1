@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: /site/signup/
 Disallow: /site/view/
 Disallow: /site/getFonbet/
